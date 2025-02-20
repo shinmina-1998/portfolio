@@ -712,6 +712,7 @@ border: 1px solid #ccc;
 
     .popup_in {
         display: block;
+        max-width: 350px;
     }
 
     .popup_in>img,
